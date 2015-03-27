@@ -1,0 +1,11 @@
+C:\Users\Admin\documents\visual studio 2010\Projects\Oncalc\Oncalc\bin\Debug\Oncalc.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\Oncalc\Oncalc\bin\Debug\Oncalc.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\Oncalc\Oncalc\bin\Debug\Oncalc.xml
+C:\Users\Admin\documents\visual studio 2010\Projects\Oncalc\Oncalc\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2010\Projects\Oncalc\Oncalc\obj\x86\Debug\Oncalc.MainForm.resources
+C:\Users\Admin\documents\visual studio 2010\Projects\Oncalc\Oncalc\obj\x86\Debug\Oncalc.Resources.resources
+C:\Users\Admin\documents\visual studio 2010\Projects\Oncalc\Oncalc\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\documents\visual studio 2010\Projects\Oncalc\Oncalc\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\documents\visual studio 2010\Projects\Oncalc\Oncalc\obj\x86\Debug\Oncalc.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\Oncalc\Oncalc\obj\x86\Debug\Oncalc.xml
+C:\Users\Admin\documents\visual studio 2010\Projects\Oncalc\Oncalc\obj\x86\Debug\Oncalc.pdb
